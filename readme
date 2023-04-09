@@ -1,0 +1,8 @@
+To run the code you should have follwing package installed in your system :
+    npm i puppeteer
+    npm i sqlite3
+
+You should have sqlite setup in your system
+
+Now run : 
+    node scraper.js
